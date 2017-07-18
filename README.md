@@ -54,7 +54,7 @@ guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our i
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
 You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
-Ping me @rserven in the IRC chatroom if you get stuck.
+Ping me @rafaelje in the IRC chatroom if you get stuck.
 
 ## Copying
 
