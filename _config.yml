@@ -1,6 +1,9 @@
+title: blackberry inventory agent
 email: ml-flyvemdm@teclib.com
-baseurl: "/flyve-mdm-blackberry-inventory-agent" 
+twitter: flyvemdm
+baseurl: "/flyve-mdm-blackberry-inventory-agent"
 url: "http://flyve.org"   
+image: http://flyve.org/flyve-mdm-blackberry-inventory-agent/images/logo2.png
 
 # Build settings
 markdown: kramdown
