@@ -2,15 +2,18 @@
 
 ![Flyve MDM banner](https://user-images.githubusercontent.com/663460/26935464-54267e9c-4c6c-11e7-86df-8cfa6658133e.png)
 
-[![License](https://img.shields.io/github/license/flyve-mdm/flyve-mdm-blackberry-inventory-agent.svg?&label=License)](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory-agent/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/flyve-mdm/blackberry-inventory-agent.svg?&label=License)](https://github.com/flyve-mdm/blackberry-inventory-agent/blob/master/LICENSE.md)
 [![Follow twitter](https://img.shields.io/twitter/follow/FlyveMDM.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/FlyveMDM)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/flyvemdm)
+[![Project Status: WIP](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
+[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
+[![#flyve-mdm on freenode](https://img.shields.io/badge/IRC%20Chat-%23flyvemdm-green.svg)](http://webchat.freenode.net/?channels=flyve-mdm)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![GitHub release](https://img.shields.io/github/release/flyve-mdm/flyve-mdm-blackberry-inventory-agent.svg)](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory-agent/releases)
 
 Flyve MDM is a Mobile device management software that enables you to secure and manage all the mobile devices of your business or family via a web-based console.
 
-To get started, check out <https://flyve-mdm.com/>!
+To get started, check out [Flyve MDM Website](https://flyve-mdm.com/)!
 
 ## Table of contents
 
@@ -25,19 +28,45 @@ To get started, check out <https://flyve-mdm.com/>!
 
 ## Synopsis
 
-TBF
+The Inventory Agent scans your mobile device, both hardware and software, and returns you a complete inventory of your Blackberry device.
+
+The Inventory is sent automatically to FusionInventory for GLPI 2.3.x and higher.
+
+### Data collected
+
+* USB
+* Hardware
+* Sensors
+* Software
+* Memories
+* Cameras
+* Networks
+* Battery
+* CPUs
+* BIOS
+* Inputs
+* Drives
+* Accesslog
+* SIM Cards
+* Environments variables
+* JVM
+* Videos
+
+For more information, you can visit [Blackberry Inventory Agent](http://flyve.org/blackberry-inventory-agent/) website.
 
 ## Build Status
 
 | **Release channel** | **Beta channel** |
 |:---:|:---:|
-| [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-inventory-agent.svg?branch=master)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-inventory-agent) | [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-inventory-agent.svg?branch=develop)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-inventory-agent) |
+| [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent.svg?branch=master)](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent) | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent.svg?branch=develop)](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent) |
 
 ## Installation
 
+[<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="60">](https://github.com/flyve-mdm/blackberry-inventory-agent/releases/latest)
+
 ## Documentation
 
-We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory-agent/wiki).
+We share long-form content about the project on the website, see our [How-tos](http://flyve.org/blackberry-inventory-agent/howtos/) and [Development](http://flyve.org/blackberry-mdm-agent/) sections.
 
 ## Versioning
 
@@ -47,18 +76,17 @@ See [the tags section of our GitHub project](http://github.com/flyve-mdm/flyve-m
 
 ## Contribute
 
-Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
-guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory-agent/issues).
+Want to file a bug, contribute some code, translate, or improve documentation? Excellent! Read up on our
+guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/blackberry-inventory-agent/issues).
 
 ## Contact
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm).
 Ping me @rafaelje in the IRC chatroom if you get stuck.
 
 ## Copying
 
 * **Name**: [Flyve MDM](https://flyve-mdm.com/) is a registered trademark of [Teclib'](http://www.teclib-edition.com/en/).
-* **Code**: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)).
+* **Code**: you can redistribute it and/or modify it under the terms of the GNU General Public License ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)).
 * **Documentation**: released under Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
