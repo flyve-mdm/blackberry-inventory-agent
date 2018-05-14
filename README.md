@@ -6,7 +6,6 @@
 [![Follow twitter](https://img.shields.io/twitter/follow/FlyveMDM.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/FlyveMDM)
 [![Project Status: WIP](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
-[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
 [![#flyve-mdm on freenode](https://img.shields.io/badge/IRC%20Chat-%23flyvemdm-green.svg)](http://webchat.freenode.net/?channels=flyve-mdm)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![GitHub release](https://img.shields.io/github/release/flyve-mdm/flyve-mdm-blackberry-inventory-agent.svg)](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory-agent/releases)
@@ -24,6 +23,7 @@ To get started, check out [Flyve MDM Website](https://flyve-mdm.com/)!
 * [Versioning](#versioning)
 * [Contribute](#contribute)
 * [Contact](#contact)
+* [Professional Services](#professional-services)
 * [Copying](#copying)
 
 ## Synopsis
@@ -56,7 +56,7 @@ For more information, you can visit [Blackberry Inventory Agent](http://flyve.or
 
 ## Build Status
 
-| **Release channel** | **Beta channel** |
+| **LTS** | **Bleeding Edge** |
 |:---:|:---:|
 | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent.svg?branch=master)](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent) | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent.svg?branch=develop)](https://travis-ci.org/flyve-mdm/blackberry-inventory-agent) |
 
@@ -82,8 +82,14 @@ guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our i
 ## Contact
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm).
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm) or [@flyvemdm on Telegram](https://t.me/flyvemdm).
 Ping me @rafaelje in the IRC chatroom if you get stuck.
+
+## Professional Services
+
+The Flyve MDM and GLPI Network services are available through our [Partner's Network](http://www.teclib-edition.com/en/partners/). We provide special training, bug fixes with editor subscription, contributions for new features, and more.
+
+Obtain a personalized service experience, associated with benefits and opportunities.
 
 ## Copying
 
