@@ -5,6 +5,7 @@ published: true
 title: Getting started
 permalink: howtos/getting-started
 description: Welcome to Flyve MDM
+category: user
 ---
 
 The Blackberry Inventory Agent features a complete inventory of your Blackberry devices where both hardware and software information is collected.
